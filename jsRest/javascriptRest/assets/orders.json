@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1001,
+        "orderDate": "12-15-21",
+        "otderTotal": 39.99,
+        "customerId": 1
+    },
+    {
+        "id": 1002,
+        "orderDate": "12-19-21",
+        "otderTotal": 24.99,
+        "customerId": 2
+    },
+    {
+        "id": 1003,
+        "orderDate": "12-23-21",
+        "otderTotal": 69.99,
+        "customerId": 3
+    },
+    {
+        "id": 1004,
+        "orderDate": "12-27-21",
+        "otderTotal": 29.99,
+        "customerId": 4
+    }
+]

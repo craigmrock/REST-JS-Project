@@ -1,0 +1,9 @@
+Problem Statement: 
+
+Small business bakery needs to get started with a web presence for their short menu of 
+specialty baked goods. 
+
+Will create a node server and use javascript to build REST APIs to get, post, put, patch, 
+and delete bakery items. Also set up resources for customers and orders. Version 1 of the 
+website will be created with Express, and use CORS to call REST APIs and return a list of 
+bakery items to show interaction with the data.  
